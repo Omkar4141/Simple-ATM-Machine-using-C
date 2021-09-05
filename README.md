@@ -10,23 +10,23 @@ i have used Macros.The main motto behind making this project is to untilize know
 # output
 
 
-1)Enter Valid Pin
+# 1)Enter Valid Pin
 
 <img src="https://github.com/Omkar4141/Simple-ATM-Machine-using-C/blob/main/1.png">
 
-2)Cheak balance
+# 2)Cheak balance
 
 <img src="https://github.com/Omkar4141/Simple-ATM-Machine-using-C/blob/main/2.png">
 
-3)Withdraw
+# 3)Withdraw
 
 <img src="https://github.com/Omkar4141/Simple-ATM-Machine-using-C/blob/main/3.png">
 
-4)Deposit
+# 4)Deposit
 
 <img src="https://github.com/Omkar4141/Simple-ATM-Machine-using-C/blob/main/4.png">
 
-5)Exit
+# 5)Exit
 
 <img src="https://github.com/Omkar4141/Simple-ATM-Machine-using-C/blob/main/5.png">
 
