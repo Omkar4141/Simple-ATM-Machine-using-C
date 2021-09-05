@@ -11,3 +11,9 @@ i have used Macros.The main motto behind making this project is to untilize know
 
 # Step 1
 
+1)Enter Valid Pin
+
+<img src="https://github.com/Omkar4141/Simple-ATM-Machine-using-C/blob/main/1.png">
+
+
+
